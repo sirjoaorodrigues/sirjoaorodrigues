@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @spank4
-- 👀 I’m interested in c, c#, c++, python
-- 🌱 I’m currently learning selenium library
+welcome to my profile
+
+about me:
+21y
+control and automation engineering
+
+knowledge:
+c, c++, python, java, javascript, ccs, html
 
 
 <!---
