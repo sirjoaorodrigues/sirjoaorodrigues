@@ -1,9 +1,9 @@
 welcome to my profile
 
 about me:
-21y
+21y,
 control and automation engineering
-
+working as a software developer at https://imobiliariajazz.com
 knowledge:
 c, c++, python, java, javascript, ccs, html
 
