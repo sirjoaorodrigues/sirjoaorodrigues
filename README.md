@@ -7,7 +7,8 @@ working as a software developer at https://imobiliariajazz.com.
 
 
 knowledge:
-python(selenium, flask , django) python is my main programming language and it puts food in the house;
+  python(selenium, flask , django):
+  python is my main programming language and it puts food in the house
 c, c++, java, arduino.
 
 
