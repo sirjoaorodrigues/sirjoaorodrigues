@@ -3,7 +3,6 @@ welcome to my profile
 about me:
 21y;
 control and automation engineering;
-industrial automation technician;
 working as a software developer at https://imobiliariajazz.com.
 
 
