@@ -3,11 +3,18 @@ welcome to my profile
 about me:
 21y;
 control and automation engineering;
+industrial automation technician;
 working as a software developer at https://imobiliariajazz.com.
 
 
 knowledge:
-c, c++, python, java, javascript, ccs, html
+python(selenium, flask , django) python is my main programming language and it puts food in the house
+c, c++, java, arduino.
+
+
+
+studying:
+javascript, typescript, ruby
 
 
 <!---
