@@ -1,20 +1,18 @@
 welcome to my profile
 
 about me:
-21y;
-control and automation engineering;
+21y.
+control and automation engineering.
 working as a software developer at https://imobiliariajazz.com.
 
 
 knowledge:
-  python(selenium, flask , django):
-  python is my main programming language and it puts food in the house
+python(selenium, flask , django).
+python is my main programming language and it puts food in the house.
 c, c++, java, arduino.
 
-
-
 studying:
-javascript, typescript, ruby
+javascript, typescript, ruby.
 
 
 <!---
