@@ -1,5 +1,7 @@
 welcome to my profile
 
+all of my projects are closed! Thank you for reading my read-me
+
 about me:
 21y.
 control and automation engineering.
