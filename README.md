@@ -1,6 +1,6 @@
 welcome to my profile
 
-all of my projects are closed! Thank you for reading my read-me
+all of my projects and repositores are closed! Thank you for reading my read-me
 
 about me:
 21y.
