@@ -2,6 +2,8 @@
 
 👋 Hi there! I'm **João Rodrigues**, a passionate **Software Engineer** based in **São Paulo, Brazil**.
 
+My Persoal WebSite: https://joao.tune.dev.br/
+
 ## What I Do
 I specialize in **Python development** and **systems automation**, with a focus on building scalable APIs, data analysis solutions, and process automation tools. I'm particularly interested in backend development, machine learning applications, and DevOps practices.
 
