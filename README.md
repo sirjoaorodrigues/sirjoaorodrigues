@@ -1,16 +1,14 @@
 # About Me
 
-👋 Hi there! I'm **João Rodrigues**, a passionate **Software Engineer** based in **São Paulo, Brazil**.
-
-My Persoal WebSite: https://joao.tune.dev.br/
+Hi there! I'm **João Rodrigues**, a passionate **Software Engineer** based in **São Paulo, Brazil**.
 
 ## What I Do
 I specialize in **Python development** and **systems automation**, with a focus on building scalable APIs, data analysis solutions, and process automation tools. I'm particularly interested in backend development, machine learning applications, and DevOps practices.
 
 ## Technologies & Tools
-- **Languages:** Python, Java, JavaScript, C++, PHP
+- **Languages:** Python, Java, C#, JavaScript
 - **Backend:** Django, Flask, Django REST Framework, Spring Boot, Express.js
-- **Frontend:** React, HTML5, CSS3
+- **Frontend:** React
 - **Database:** PostgreSQL, MySQL, SQL Server
 - **Data & Analytics:** Pandas, NumPy, Matplotlib, Power BI
 - **Cloud & DevOps:** AWS EC2, Oracle Cloud, Ubuntu Server, CentOS
@@ -25,10 +23,7 @@ I specialize in **Python development** and **systems automation**, with a focus 
 - **Advanced Java** - Udemy
 
 ## Get in Touch
-- 📧 Email: sirjoaorodrigues@gmail.com
-- 📱 Phone: (11) 99128-3216
-- 📍 Location: São Paulo, SP - Brazil
+- Email: sirjoaorodrigues@gmail.com
+- Phone: (11) 99128-3216
+- Location: São Paulo, SP - Brazil
 
----
-
-*"Turning complex problems into elegant solutions through code and automation"*
