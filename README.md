@@ -15,13 +15,6 @@ I specialize in **Python development** and **systems automation**, with a focus 
 - **Tools:** Git, GitHub/GitLab, Postman, Swagger/OpenAPI, Selenium
 - **Automation:** Web Scraping, Process Automation, CI/CD
 
-## Education & Certifications
-- **Bachelor's in Control and Automation Engineering** - IFSP (2025)
-- **Industrial Automation Technician** - IFSP (2016-2019)
-- **Advanced Python, Flask & Django** - Udemy
-- **Power BI** - UPBI
-- **Advanced Java** - Udemy
-
 ## Get in Touch
 - Email: sirjoaorodrigues@gmail.com
 - Phone: (11) 99128-3216
