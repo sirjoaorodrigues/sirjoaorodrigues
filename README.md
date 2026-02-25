@@ -17,6 +17,6 @@ I specialize in **Python development** and **systems automation**, with a focus 
 
 ## Get in Touch
 - Email: sirjoaorodrigues@gmail.com
-- Phone: (11) 99128-3216
+- Phone: (11) 97078-3299
 - Location: São Paulo, SP - Brazil
 
