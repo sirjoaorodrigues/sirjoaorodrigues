@@ -14,9 +14,3 @@ I specialize in **Python development** and **systems automation**, with a focus 
 - **Cloud & DevOps:** AWS EC2, Oracle Cloud, Ubuntu Server, CentOS
 - **Tools:** Git, GitHub/GitLab, Postman, Swagger/OpenAPI, Selenium
 - **Automation:** Web Scraping, Process Automation, CI/CD
-
-## Get in Touch
-- Email: sirjoaorodrigues@gmail.com
-- Phone: (11) 97078-3299
-- Location: São Paulo, SP - Brazil
-
